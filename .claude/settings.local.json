@@ -11,7 +11,9 @@
       "Bash(Get-ChildItem \"D:\\\\Data\\\\Cloud & AI\\\\Books\\\\rag-in-action-master\" -Depth 0)",
       "Bash(Select-Object Name, LastWriteTime)",
       "Bash(Sort-Object LastWriteTime -Descending)",
-      "Bash(Head -20)"
+      "Bash(Head -20)",
+      "PowerShell(conda env *)",
+      "PowerShell(pip install *)"
     ]
   }
 }

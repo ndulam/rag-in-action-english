@@ -4,7 +4,7 @@ This project is the code repository for a DeepSeek-based RAG system [practical c
 
 Course link: [RAG System Development in Practice](https://u.geekbang.org/subject/airag/1009927)
 
-![DeepSeek-based RAG System Development Course Architecture Diagram](92-Pic/RAG.PNG)
+![DeepSeek-based RAG System Development Course Architecture Diagram](92-Pic/RAG-english.png)
 
 > **Advanced LLM RAG Bootcamp** — Hands-on RAG System Development with DeepSeek
 >
@@ -19,7 +19,7 @@ Course link: [RAG System Development in Practice](https://u.geekbang.org/subject
 
 ## Technology Framework
 
-![RAG Technology Framework](92-Pic/RAG-tech-framework.png)
+![RAG Technology Framework](92-Pic/RAG-tech-framework-english.png)
 
 > The diagram above (in Chinese) shows the complete RAG technology landscape. The English description of each section follows below.
 
