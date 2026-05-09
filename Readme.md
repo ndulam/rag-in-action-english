@@ -4,6 +4,8 @@ This project is the code repository for a DeepSeek-based RAG system [practical c
 
 Course link: [RAG System Development in Practice](https://u.geekbang.org/subject/airag/1009927)
 
+![DeepSeek-based RAG System Development Course Architecture Diagram](92-Pic/RAG.PNG)
+
 > **Advanced LLM RAG Bootcamp** — Hands-on RAG System Development with DeepSeek
 >
 > | | |
@@ -14,11 +16,12 @@ Course link: [RAG System Development in Practice](https://u.geekbang.org/subject
 >
 > *RAG is the best on-ramp for developers entering AI — covering 10 core technologies across the full RAG development workflow.*
 
----
 
 ## Technology Framework
 
-The diagram below describes the complete RAG technology landscape covered in this course.
+![RAG Technology Framework](92-Pic/RAG-tech-framework.png)
+
+> The diagram above (in Chinese) shows the complete RAG technology landscape. The English description of each section follows below.
 
 ### Document Loading
 - **LangChain Documents / LlamaIndex Nodes**
@@ -38,7 +41,7 @@ The diagram below describes the complete RAG technology landscape covered in thi
 - **Relational database** for structured metadata
 
 ### Indexing
-| Index type | Technique |
+| Index Type | Technique |
 |---|---|
 | Small-to-large context | Node sentence window, sliding window retriever |
 | Hierarchical | Cluster-based indexing, RAPTOR |
@@ -84,15 +87,12 @@ The diagram below describes the complete RAG technology landscape covered in thi
 | **Agentic RAG** | Self-directed RAG with autonomous agent loops |
 | **Multi-Modal RAG** | RAG over images, audio, and video |
 
----
 
 ![RAG in Action Book](92-Pic/RAG-in-action.jpg)
 
 > The companion book [*RAG in Action*](https://item.jd.com/14447967.html) has been published! (Posts & Telecom Press)
 
 [Click here to purchase at a discount](https://item.jd.com/14447967.html)
-
----
 
 ## Project Architecture
 
@@ -111,8 +111,6 @@ The project uses a modular design, with each module responsible for a different 
 | `08-Generation` | Answer generation | LLM integration | GPU recommended |
 | `09-Evaluation` | System performance evaluation | RAGAS, TruLens | Evaluation frameworks |
 | `10-AdvanceRAG` | Advanced RAG technique implementation | Graph RAG, Multi-Agent | Advanced frameworks |
-
----
 
 ## Environment Requirements
 
@@ -146,8 +144,6 @@ The project uses a modular design, with each module responsible for a different 
    - Basic version: `requirements_llamaindex_SimpleRAG(additional-packages-needed-for-later-modules).txt`
    - Full version (GPU): `requirements_llamaindex_20250413(Ubuntu-with-GPU).txt`
    - Full version (CPU): `requirements_llamaindex_no-GPU(Mac,Win).txt`
-
----
 
 ## Environment Setup
 
@@ -241,8 +237,6 @@ conda activate venv-rag-llamaindex
 pip install -r 91-Environment/requirements_llamaindex_no-gpu_Mac-Win.txt
 ```
 
----
-
 ## Special Dependency Notes
 
 1. **PDF processing:**
@@ -255,16 +249,12 @@ pip install -r 91-Environment/requirements_llamaindex_no-gpu_Mac-Win.txt
 2. **Annotation tools:**
    - Use `requirements_marker_20250413.txt` to install annotation tool dependencies
 
----
-
 ## Usage Instructions
 
 1. Select the appropriate environment configuration file and install dependencies
 2. Learn and practice the modules in order
 3. Each module contains independent examples and documentation
 4. It is recommended to start with `00-SimpleRAG` and progress gradually
-
----
 
 ## Notes
 
@@ -273,23 +263,17 @@ pip install -r 91-Environment/requirements_llamaindex_no-gpu_Mac-Win.txt
 3. It is recommended to use a virtual environment to manage dependencies
 4. Some modules may require additional model downloads or API key configuration
 
----
-
 ## Frequently Asked Questions
 
 1. **CUDA-related errors**: check that the NVIDIA driver and CUDA versions are compatible
 2. **Insufficient memory**: adjust batch size or use the CPU version
 3. **Dependency conflicts**: use a virtual environment and install strictly according to the requirements file
 
----
-
 ## Contribution Guide
 
 Issues and Pull Requests are welcome to help improve the project.
 
 [![Star History Trend](https://api.star-history.com/svg?repos=huangjia2019/langchain-in-action,huangjia2019/ai-agents,huangjia2019/let-us-machine-learning,huangjia2019/rag-in-action,huangjia2019/llm-gpt&type=Date)](https://www.star-history.com/#huangjia2019/langchain-in-action&huangjia2019/ai-agents&huangjia2019/let-us-machine-learning&huangjia2019/rag-in-action&huangjia2019/llm-gpt&Date)
-
----
 
 ## License
 
