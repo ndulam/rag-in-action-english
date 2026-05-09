@@ -1,0 +1,178 @@
+Black Myth: Wukong
+
+Genre	Action role-playing [1]
+Platform
+Microsoft Windows
+PlayStation 5
+Xbox Series X/S
+Developer	Game Science
+Publisher	Publishing unit: Zhejiang Publishing United Group Digital Media Co., Ltd.
+Operating unit: Tianjin Youke Interactive Technology Co., Ltd. [2]
+Producers	Feng Ji, Yang Qi
+Writer	Feng Ji
+Art Director	Yang Qi [3]
+Music	8082 Audio
+Engine	Unreal Engine 5 [4]
+Mode	Single-player
+Release Date
+August 20, 2024
+Black Myth: Wukong is an action role-playing game developed and published by Game Science. It has been praised by media as China's first "AAA game" [5]. The game launched on August 20, 2024 for Windows (Steam, Epic Games, WeGame) and PlayStation 5 platforms. The release date for the Xbox Series X/S version is to be announced.
+
+The game is adapted from Journey to the West, one of the Four Great Classical Novels of Chinese literature [6][7]. Prior to its official release, the game received widespread acclaim from industry media and critics, who praised its combat system, visual design, and world-building. After launch, it quickly topped the sales charts on multiple platforms [8], with global sales exceeding 18 million copies within two weeks, making it one of the fastest-selling games in history. [9][10]
+
+Gameplay
+Black Myth: Wukong is an action role-playing game [11] featuring single-player mode and a third-person perspective. Although before release there was debate about whether it qualified as a "Soulslike" game due to its many borrowed elements from that genre, developer Game Science does not consider it to belong to this category [12], and many reviewers also concluded that the game does not fully conform to the "Soulslike" definition. [13][14]
+
+The game's design is inspired by Journey to the West, one of China's Four Great Classical Novels — the classical fantasy novel about gods and demons. Players control a character known as the "Destined One," a stone monkey born of divine spirit on Flower-Fruit Mountain. The protagonist's primary weapon is staff-type weapons including the Compliant Golden-Hooped Rod, which can extend and retract during combat. The game's combat system includes three main staff techniques: Smash Stance, Thrust Stance, and Pillar Stance, offering diverse combat options. Combat also involves resource management; when a gauge is filled, players can accumulate "Focus Points" used for combo attacks or charged heavy strikes. Sprinting, dodging, and attacking all consume stamina. [15][16]
+
+In addition to physical combat, players can use four types of spells: "Arcana," "Body Techniques," "Hair Arts," and "Transformations." [17] These spells have cooldowns and consume mana. Each spell type can be further subdivided by skill — for example, the "Immobilize" Arcana can freeze enemies for a brief time; the "Ring of Fire" Body Technique leaves behind a decoy to allow escape and then launches a surprise attack when re-emerging; the "Ring of Eight" Hair Arts summon multiple clones to assist in battle; and various Transformation spells allow the protagonist to transform into different creatures, each with unique moves and health values. [13] Additionally, players can obtain "Spirit Skills" by defeating powerful enemies — these function similarly to one-time transformations; for example, the "Wandering Wight" spirit allows the player to perform a headbutt attack. [18]
+
+The game's progression is largely linear, though there are broader areas for players to explore. Players will encounter various monsters and bosses as enemies. Checkpoints are represented by shrines (Earth God Temples) scattered throughout the world. The game's map cannot be adjusted by the player, but changes as the game progresses. [19]
+
+The game also supports New Game+ mode, offering players a "reincarnation" gameplay experience and Easter eggs. [20] For example, entering New Game+ 2 unlocks the "Call for Help" Hair Art, which allows immediate revival upon death in combat [21]; in New Game+ 3, monsters become stronger; in New Game+ 4, enemy difficulty greatly increases and a special four-phase staff stance Easter egg is triggered. [22][23]
+
+Plot
+Setting
+
+The Stork Tower is one of many landmarks in the game [24]
+The story of Black Myth: Wukong is divided into six chapters titled "Fire Illuminates the Black Clouds," "Wind Rises at Dusk," "White Dew Born in the Night," "A Winding Path to Purple Mandarin Ducks," "The Sun Sets on the Mortal Dust," and "Unfinished." [25] The game features two endings, and the player's choices and experiences will influence the final outcome. [26][27]
+
+At the end of each chapter, there are 2D and 3D animated cutscenes that showcase and explore the narrative and thematic elements of Black Myth: Wukong. [28]
+
+The game's setting blends Chinese cultural and natural landmarks. For example, the Dazu Rock Carvings in Chongqing, the Lesser Western Heaven (Xiaoxitian), Nanchan Temple, Iron Buddha Temple, Guangsheng Temple, and the Stork Tower in Shanxi Province all appear in the game. [29][30][24] The game also incorporates Buddhist and Taoist philosophical elements. [31]
+
+Story
+See also: Journey to the West, A Chinese Odyssey Part One: Pandora's Box, and A Chinese Odyssey Part Two: Cinderella
+Prologue
+The story of Black Myth: Wukong takes place after the events of Journey to the West, though some character designs reference the Hong Kong film A Chinese Odyssey. [32] In the storytelling of an old monkey, it is said that after Sun Wukong attained Buddhahood, he was still unwilling to be bound by constraints. After Tang Sanzang returned to the East, Sun Wukong resigned his Buddha title, intending to return to Flower-Fruit Mountain to live freely. Unexpectedly, the Heavenly Court grew suspicious of him, and Erlang Shen, the Four Heavenly Kings, and the Giant Spirit God led the Heavenly Army once again to attack Flower-Fruit Mountain. Just as Sun Wukong was locked in fierce battle with Erlang Shen, the golden headband — which had seemingly vanished — reappeared. Sun Wukong could not defeat Erlang Shen, and he perished. His physical body transformed into a stone egg, while his soul was divided into six sacred relics known as the Six Roots, hidden throughout the world. Many years later, the player takes on the role of the "Destined One," a stone monkey born of divine spirit on Flower-Fruit Mountain, who sets out on a journey to find the lost relics and rescue and resurrect Sun Wukong. [33][34]
+
+Seeking the Relics
+The "Destined One" travels to Black Wind Mountain to search for the relics, receiving help from the Earth God, and arrives at Guanyin Chan Temple, rebuilt after a fire. After battling various demon kings and bosses, the Destined One finally defeats the Black Bear Spirit atop the pagoda at the summit of Black Wind Mountain [Note 1], recovering Sun Wukong's first relic, "Eyes That See Joy." However, the Black Bear Spirit then reveals that he was forced by the Heavenly Court to participate in the plot against Sun Wukong. He expresses remorse to the Destined One and voluntarily returns to Guanyin Chan Temple to atone for his sins. [37][38]
+
+Next, the Destined One crosses the desolate Yellow Wind Ridge, during which a headless monk provides help while narrating stories and playing a three-string instrument. The Destined One kills the Yellow Wind Sage, who used the head of Bodhisattva Lingji to seal Sun Wukong's second relic, "Ears That Hear Anger." After the headless monk reattaches his own head, the Destined One realizes he is actually Bodhisattva Lingji. Out of gratitude, Lingji personally hands the relic over to the Destined One. [39]
+
+The Destined One continues on to the frigid Lesser Western Heaven, capturing and killing Kang Jin Long, who had defected to Yellow Brow, and rescuing Zhu Bajie (Pigsy), who had been imprisoned by Kang Jin Long. Together they defeat Yellow Brow, who flees to a frozen lake but falls through the ice and sinks. Bodhisattva Maitreya, who had planned to personally subdue Yellow Brow, retrieves Sun Wukong's third relic, "Nose That Smells Love," from the lake and hands it to the Destined One. [40][41]
+
+Next, the Destined One and Zhu Bajie head to the Spider Web Cave on Pipa Ridge. Zhu Bajie is captured by the Spider Demons. The Hundred-Eyed Demon Lord plans to have the Spider Demons' mother, Purple Spider Girl (Zi Zhu'er), marry Zhu Bajie and then devour him, luring the Destined One into the trap, but Purple Spider Girl and Zhu Bajie's unresolved fate delays the plan. The Destined One arrives to rescue Zhu Bajie, and together with the six spider demons kills the Hundred-Eyed Demon Lord, ultimately obtaining Sun Wukong's fourth relic, "Tongue That Tastes Desire." [42]
+
+Characters from Black Myth: Wukong (left) originate from Journey to the West (right, first edition), such as Princess Iron Fan holding the Banana Leaf Fan. [43][44]
+The two arrive at Flaming Mountain, where they discover that Red Boy is attempting to steal the fifth relic from the Bull Demon King. They learn that the Heavenly Court and the Five Great Demon Kings once conspired to frame Sun Wukong. After the Heavenly Court's victory, they divided up Sun Wukong's Six Roots, with the Bull Demon King receiving the fifth relic. Red Boy covets the power of the relic for revenge, and is ultimately defeated by the Destined One. Red Boy's mother, Princess Iron Fan, intervenes to plead for her son and offers her Banana Leaf Fan, revealing Red Boy's tragic origins — he is actually a surviving bloodline of the Yaksha clan. But Red Boy refuses to submit, and in grief and rage takes his own life. As Red Boy's body dissipates, the Destined One obtains Sun Wukong's fifth relic, "Body That Worries." [45]
+
+In an optional story arc that determines the ending, Bodhisattva Maitreya leads Erlang Shen Yang Jian and the Destined One to Meishan at the Floating Pagoda of Lesser Western Heaven. The Destined One engages in fierce battle with Erlang Shen and the Four Heavenly Kings at Meishan. [46] The Destined One kills the Four Heavenly Kings and defeats Yang Jian. Yang Jian's "Third Eye" releases Sun Wukong's sixth relic, "Mind That Desires," and hands it to the Destined One, sharing his insight — that the previous battles were actually a means for Sun Wukong to find a path to freedom through the death of his physical body. [47][48]
+
+Ending
+The Destined One and Zhu Bajie return to Flower-Fruit Mountain and reach the stone egg at the summit of Heaven's Truth Peak, entering an illusory realm called "The Stone Realm," formed from Sun Wukong's obsessions. The old monkey leads the Destined One and Zhu Bajie across the Sea of Consciousness. The old monkey mentions that Sun Wukong's sixth relic, "Mind That Desires," has already faded — because the "Root of Mind" is the unique essence of every living being, destined to dissipate at the end of life — so Sun Wukong can never return. The true purpose of this journey is for the Destined One to become a vessel, inheriting Sun Wukong's essence and name. To complete the cycle and continue the Journey to the West, the Destined One must defeat the remnant body of the Great Sage. [47]
+
+Finally, the Destined One battles the remnant body of the Great Sage, which represents Sun Wukong's "obsessions." After the remnant body is defeated, it gradually dissipates, and the golden headband falls into the water. If the Destined One did not obtain Sun Wukong's sixth relic from Erlang Shen before the final battle, Sun Wukong will not be resurrected, and the old monkey will place the golden headband on the Destined One's head, turning the Destined One into a new instrument of the Heavenly Court's will. But if the Destined One has already obtained Sun Wukong's sixth relic before the final battle, all six roots are gathered, Sun Wukong is successfully resurrected, and the Destined One becomes Sun Wukong. Though the old monkey picks up the golden headband, he does not place it on Sun Wukong's head, allowing Sun Wukong to escape the constraints of the Heavenly Court. [47][48]
+
+Development
+Black Myth: Wukong began development by Game Science in 2017, and the first gameplay demo was revealed on August 20, 2020. [49] The trailer showcased content built on Unreal Engine 4, with the protagonist exploring environments on Black Wind Mountain and battling various enemies. Within one day of release, the trailer garnered nearly 2 million views on YouTube and 10 million views on Bilibili. [50][51] According to video game analyst Daniel Ahmad, the main purpose of releasing this gameplay demo was that the development team was short-handed and wanted to attract talent through the video. [52] Initially, the development team had only 7 people, but by the time of the game's reveal trailer, the team had grown to approximately 30 members. [53]
+
+On February 8, 2021, the development team released another 3-minute demo trailer to celebrate the upcoming Lunar New Year of the Ox. On August 20, 2021, the team released a 12-minute demo trailer, recorded using Unreal Engine 5 developed by Epic Games. [54] On August 20, 2022, the team released a 6-minute 20-second story short film [55], alongside an 8-minute 22-second gameplay demo released by GeForce. [56]
+
+Producer Feng Ji stated that Black Myth: Wukong is the first entry in the "Black Myth series," with the internal development code name "B1," short for "Black Myth One." According to his vision, the Black Myth series will be a series of fantasy adventure stories set in China's Eastern mythology, featuring different legendary heroes. After planning the first entry in this series, he has some ideas for the names and directions of the next two Black Myth games, but has not yet publicly disclosed their content. [57][58]
+
+Filming Locations
+
+A Dazu Rock Carvings statue scanned by the development team. [59] Pictured is the Cliff Sculpture of Baoding Mountain.
+When designing game environments, the team conducted on-site surveys, scanning buildings and sculptures at various locations, and replicated these elements in the game or used them as a basis for design. [59] Many architectural elements in the work are drawn from existing ancient Chinese buildings, including temples, pagodas, palaces, castles, residences, and gardens. [60][61]
+
+According to the published list of 36 filming locations, 27 are within Shanxi Province [62], including: Nanchan Temple, Foguang Temple, Nanshan Temple, Jinge Temple, and Youguo Temple on Mount Wutai in Xinzhou; Huiji Temple in Yuanping; the Yungang Grottoes, Yong'an Temple, Xuankong Temple (Hanging Temple), Shanhua Temple, Huayan Temple, and Jueshan Temple in Lingqiu of Datong; the Guandi Temple in Jiezhou, the Stork Tower in Yongji, and Fusheng Temple in Xinjiang of Yuncheng; the Lesser Western Heaven (Xiaoxitian) in Xi County, Guangsheng Temple in Hongtong, and Iron Buddha Temple in Yaodu of Linfen; the Jade Emperor Temple in Zezhou, Iron Buddha Temple in Gaoping, and Erxian Temple in Lingchuan of Jincheng; Guanyin Hall in Luzhou and Chongqing Temple in Zhangzi of Changzhi; Chongfu Temple and Yingxian Wooden Pagoda (Fogong Temple Pagoda) in Shuozhou; and Zhenguo Temple and Shuanglin Temple in Pingyao, Jinzhong.
+
+Outside Shanxi Province, other filming locations include: the Mei Family Ancestral Hall and Sisi Temple in Jingning, Lishui, Zhejiang; the Dazu Rock Carvings in Chongqing; the Lingyan Temple Pagoda Forest in Changqing, Shandong; the Shuilu'an Temple in Lantian, Shaanxi; Kaiyuan Temple in Quanzhou, Fujian; the Climbing Dragon Gate of Baiyazhai in Susong, Anhui; Cheng'en Temple in Jiangkou, Guizhou; Chongsheng Temple in Dali, Yunnan; Dule Temple in Jizhou, Tianjin; the Anyue Stone Carvings, Lifeng Temple in Nanchong, and Guanyin Temple in Xinjin, Sichuan; and the Jade Emperor Pavilion, South'an Temple Pagoda, and Fuqing Temple in Well Pit (Jixing) of Hebei.
+
+Cast
+
+Some characters in the game, such as Kang Jin Long (left) and Lou Jin Gou (right), were inspired by the painted sculptures at the Jade Emperor Temple in Jincheng, Shanxi. The character Kang Jin Long appears in both humanoid and dragon forms as an enemy boss. [63]
+The main characters of Black Myth: Wukong are derived from figures in Journey to the West. In addition to the Destined One playing the role of Sun Wukong, players will also encounter other major Journey to the West characters such as Zhu Bajie (Pigsy), Yang Jian (Erlang Shen), the Spider Demons, Princess Iron Fan, and various monsters. [64] In the game, these main characters were brought to life through the performances of multiple motion capture actors and voice actors. Martial artist actor Yin Kai primarily performed the protagonist "Destined One's" combat movements, particularly staff techniques and spell skill movements; in addition to the protagonist's actions, he also performed 60% of other characters in the game. [65][66]
+
+Below are the game's main characters along with their motion capture actors and Mandarin and English voice actors. Tong Xinzhu serves as voice director. [67][68][69]
+
+Character	Motion Capture Actor	Mandarin Voice Actor	English Voice Actor
+Sun Wukong	Yin Kai	Lin Qiang	Mark Ota
+Yang Jian (Erlang Shen)	Wang Guohaojie	Zhang Jie	Andrew Kishino
+Old Monkey (Narrator)	None	Gao Zengzhi	Steven Pacey
+Yuan Shoucheng	Zhou Zheng	Tang Shuiyu	Ashley Alymann
+Headless Monk (Shaanxi Folk Singer)	None	Xiong Zhuying	None
+Headless Monk	None	Luan Lisheng	Kay Eluvian
+Yellow Wind Sage	None	Wang Chenguang	Andrew James Spooner
+Bodhisattva Lingji	None	Li Jin	Vincent Lai
+Bodhisattva Maitreya	None	Tang Xiaotang	Molly Harris
+Kang Jin Long	Zhang Yishang	Liu Xiaoyu	Millie Hikasa
+Zhu Bajie (Pigsy)	None	Tang Zixi	Jack Ayres
+Marshal Tianpeng	Hu Tao	None	None
+Yellow Brow Demon King	None	Zhang Yaohan	Ramon Tikaram
+Fourth Sister	Ke Jinmeng	Qiu Qiu	Millie Hikasa
+Second Sister	Zurayati Abdulla	Lu Xiran	Megan Richards
+Purple Spider Girl (Zi Zhu'er)	Wu Yanshu	Lin Meiyu	Melody Chikakane Brown
+Hong Yi (Red Robe)	None	Shuo Xiaoyu	Hanako Footman
+Pingping	Qian Siyi	Tong Xinzhu	Leader Looi
+Princess Iron Fan	Wang Renke [70]	Zhang Ai	Arina Ii
+Zi Ya [71]
+Soundtrack
+
+Artist Xiong Zhuying performs Shaanxi folk storytelling using a three-string instrument for the Headless Monk. [72]
+The game's soundtrack is licensed to use the opening theme "Cloud Palace Swift Melody" (Yun Gong Xun Yin) from the TV series Journey to the West, composed by Xu Jingqing in 1986. [73] Additionally, the work also uses the TV series' ending theme "Dare to Ask Where the Road Is" (Gan Wen Lu Zai He Fang) as the credits song after the first playthrough, performed by Yang Hongji and Yang Enshuo. [74]
+
+The game's music, sound effects, and voice acting were co-produced by 8082 Audio Studio. [75][76]
+
+Release
+In January 2023, the official team released a Year of the Rabbit short film, announcing the game's release date as summer 2024. [77] The development team committed to releasing the game on PC and major gaming console platforms. [78] The game would be released as a buy-to-play title, and downloadable content was possible. On August 20, 2023, an offline hands-on event was held in Hangzhou, featuring multiple boss challenges and standalone level segments. [79] In December, the official team released a release date trailer, confirming the game would launch on PC, PS5, and Xbox Series X/S platforms, with the possibility of supporting cloud gaming platforms capable of running it smoothly. [7]
+
+In February 2024, the National Press and Publication Administration released its monthly approval information for domestic online games and game license changes. A total of 111 games were approved, including Black Myth: Wukong, marking that Black Myth: Wukong could be officially sold in mainland China. [80] In May, at the WeGame Game Night event, the official team announced that the game would simultaneously launch on the WeGame platform. [81]
+
+Co-founder Liu Zhuo explains the design process for protagonist derivatives. [82]
+On August 20, 2024, Black Myth: Wukong officially launched and was released in four versions: Digital Standard Edition, Digital Deluxe Edition, Physical Deluxe Edition, and Physical Collector's Edition. [83][84][85]
+
+Digital Standard Edition: Contains the base game.
+Digital Deluxe Edition: In addition to the base game, also provides in-game bonus content and a curated digital soundtrack. The bonus content includes the weapon "Copper Cloud Staff," the costume set "Hundred Performances Nuo Mask, Hundred Performances Coin-Lined Robe, Hundred Performances Hand Guards, Hundred Performances Hanging Leg Guards," and the trinket "Wind Chime."
+Physical Deluxe Edition: Contains the activation code for the Digital Deluxe Edition and a series of physical collectibles. Collectibles include: a collector's tin box, a 1:1 golden headband replica, the "Chaos Peach Orchard" scroll painting, a Wind Chime necklace, a Thunder Chisel ring, a Golden Crow badge, stamps and postcards, and a warranty certificate.
+Physical Collector's Edition: Also contains the activation code for the Digital Deluxe Edition and physical collectibles. Collectibles include: a collector's tin box, a 1:6 poseable action figure of the protagonist titled "Face Your Destiny," the "Heart Sutra Received" scroll painting, a Wind Chime necklace, a Thunder Chisel ring, a Golden Crow badge, stamps and postcards, and a warranty certificate.
+The activation codes for the Physical Deluxe Edition and Physical Collector's Edition support WeGame (purchased via JD.com) or Steam (overseas purchases), but none of the editions include a physical disc. Game Science stated it is exploring the possibility of providing physical discs, but due to limited offline resources, it could not be made available at the same time as the game's launch. [86]
+
+Reception
+Reviews
+Aggregate Scores
+Aggregator	Score
+Metacritic	PC: 81/100 [87]
+PS5: 75/100 [88]
+OpenCritic (Recommend Rate)	76% [89]
+Douban Games	9.1/10 [101]
+Review Scores
+Media	Score
+GamesRadar+	4/5 stars [90]
+GameSpot	8/10 [93]
+HardcoreGamer	4.5/5 [96]
+IGN	8/10 [91]
+PCGamesN	8/10 [92]
+PC Gamer US	87/100 [97]
+3DMGAME	10/10 [95]
+Gamer.com.tw	10/10 [94]
+IGN China	10/10 [98]
+GamingBolt	10/10 [99]
+COGconnected	93/100 [100]
+The game is commonly referred to by media as "China's first AAA game." Three days after launch, total sales across all platforms had exceeded 10 million copies, breaking Chinese gaming history records.
+
+Metacritic aggregated reviews from various media outlets, with the PC version averaging 81/100 [87] and the PS5 version averaging 75/100 [88]. IGN China gave the game a perfect score of 10, acknowledging that while the game has certain gaps compared to internationally renowned AAA titles, the quality achieved by Game Science as a company only ten years old is remarkable, and it can be called a milestone in the Chinese gaming industry. [102]
+
+Black Myth: Wukong is considered an important factor in the transformation of the Chinese video game industry toward high-end games and international audiences. [103] For example, before the game's release, the director of Phantom Blade Zero, Liang Qiwei, stated that he believed the game would be hugely popular, that everyone was watching it, and that its success would give confidence to other games. [104]
+
+Zhao Jun, a master's student at Lanzhou University of Technology, believes that this video game has to some degree satisfied the psychological needs of mainland Chinese players regarding traditional Chinese culture, enhanced the cultural depth of gaming, and provided a new, highly interactive and participatory form of entertainment for the dissemination of traditional Chinese culture. [105]
+
+The game won the "Best Visual Design" award at Gamescom 2023, and was nominated for the "Most Epic Game" award. [106]
+
+The popularity of Black Myth: Wukong helped boost PlayStation 5 (PS5) sales; in the Chinese market, for example on Alibaba's Tmall platform, the PS5 topped the electronic gaming hardware sales rankings. [107][108] The game also inspired many players to visit the real-life filming locations featured in the game. [109] Additionally, the character of the Fourth Sister Spider Demon became a popular cosplay subject on platforms such as Bilibili and Douyin (TikTok). [110]
+
+According to data from PSNProfiles, after the game's launch, looking only at PlayStation Network (PSN) usage on PS5, the first player to achieve the Platinum Trophy (100% game completion) was Chinese PSN player "p789cs" on August 22, accomplished in approximately 3 days. Among the global PlayStation player leaderboard, 12 of the top 15 fastest Platinum Trophy achievers were found to be players from Hong Kong; looking at the top 50 players on the leaderboard, Hong Kong players were also the dominant group. [111]
+
+Sales
+In June 2024, Black Myth: Wukong officially opened pre-orders [112][113]. By the day of release, pre-order sales had reached 400 million yuan RMB [114], equivalent to the game's total development costs. [115]
+
+After launch, the game quickly topped the sales charts on multiple platforms including Steam and WeGame [116]. On Steam, the game ranked first on the bestseller charts in every country and region, as well as globally [117]. By that evening, the number of simultaneous online players on Steam exceeded 2.2 million, ranking first globally in online player count for that day [118], and also became the highest concurrent player count ever for a single-player game on the platform. [119] Bloomberg reported that this game's rapid rise may secure an important place in the gaming industry. [120]
+
+As of August 23, 2024, developer Game Science announced that total game sales across all platforms had exceeded 10 million copies [121][122], with simultaneous online players across all platforms surpassing 3 million. [123][124] This game is one of the fastest-selling games in history. [125] Sony revealed that Black Myth: Wukong was the most-downloaded PlayStation 5 game in North America (USA and Canada), Europe, and Japan in August 2024. [126][127]
+
+According to data from analytics company VG Insights, within two weeks of launch, total sales had exceeded 18 million copies, with total revenue of approximately 6.165 billion yuan RMB. [128][129] Both the Physical Deluxe Edition and Physical Collector's Edition were in short supply; on JD.com for example, 700,000 people registered to purchase 30,000 copies of the physical edition. [130]
+
+Controversy
+Some players claimed that the version of Black Myth: Wukong released on WeGame was censored, with some character models and controversial text content modified — for example, all instances of the character "wine" (酒) were changed to "sweet dew" (甘露). [131] These modifications may have been in response to parental concerns about children becoming addicted to games and other potential risks. [132] However, some people argued that game content should be viewed rationally, and that a scientific, reasonable, and comprehensive game rating system should be established rather than modifying content. [133]

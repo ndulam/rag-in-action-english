@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\Data\\\\Cloud & AI\\\\Books\\\\rag-in-action-master\" -Recurse -File)",
+      "Bash(Measure-Object)",
+      "Bash(Select-Object -ExpandProperty Count)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\Data\\\\Cloud & AI\\\\Books\\\\rag-in-action-master\" -Recurse -Directory | Where-Object { $_.Name -match '[一-鿿]' } | Select-Object -ExpandProperty FullName)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\Data\\\\Cloud & AI\\\\Books\\\\rag-in-action-master\" -Recurse -File | Where-Object { $_.Name -match '[一-鿿]' } | Select-Object -ExpandProperty FullName)",
+      "Bash(xargs grep *)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\Data\\\\Cloud & AI\\\\Books\\\\rag-in-action-master\" -Recurse -Directory | Where-Object { $_.Name -match '[一-鿿]' } | Select-Object -ExpandProperty Name)",
+      "Bash(Get-ChildItem \"D:\\\\Data\\\\Cloud & AI\\\\Books\\\\rag-in-action-master\" -Depth 0)",
+      "Bash(Select-Object Name, LastWriteTime)",
+      "Bash(Sort-Object LastWriteTime -Descending)",
+      "Bash(Head -20)"
+    ]
+  }
+}

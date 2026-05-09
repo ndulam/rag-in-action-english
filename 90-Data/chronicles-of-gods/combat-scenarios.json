@@ -1,0 +1,226 @@
+{
+    "version": "1.0",
+    "game_info": {
+        "title": "Chronicles of Gods: Hu Sun",
+        "developer": "KaGe AI",
+        "genre": ["Action Adventure", "Role-Playing"],
+        "base_on": "Journey to the West",
+        "release_status": "In Development"
+    },
+    "total_entries": 100,
+    "categories": ["combat", "scene", "story", "ability", "character", "item"],
+    "data": [
+        {
+            "id": "COMBAT_001",
+            "title": "Spirit Monkey Form Combat Showcase",
+            "category": "combat",
+            "description": "Wukong unleashes the Spirit Monkey transformation, his body suddenly shrinking as his movements become lightning-fast. Golden fur shimmers all over as he weaves freely through the gaps in the giant BOSS's attacks, demonstrating the pinnacle of speed and agility. Each strike lands precisely on the enemy's weak points.",
+            "combat_details": {
+                "main_character": "Sun Wukong",
+                "form": "Spirit Monkey Form",
+                "opponent": "Giant Mountain Spirit",
+                "combat_style": ["Agile Combat", "Aerial Maneuvers", "Weak Point Strike"],
+                "abilities_used": ["Spirit Monkey Transformation", "Somersault Cloud", "Staff Techniques"],
+                "difficulty": "High"
+            },
+            "scene_info": {
+                "location": "Black Wind Mountain",
+                "time_of_day": "Dawn",
+                "weather": "Clear",
+                "environment": "Mountain",
+                "special_effects": ["Golden Light", "Spiritual Aura", "Afterimages"]
+            },
+            "visual_elements": {
+                "color_scheme": ["Gold", "Brown", "Green"],
+                "key_visuals": ["Golden Fur", "Nimble Silhouette", "Rocky Mountain Setting"],
+                "particle_effects": ["Golden Light Scattering", "Spiritual Energy Flowing", "Afterimage Blur"]
+            },
+            "gameplay_tags": [
+                "Transformation Combat",
+                "BOSS Battle",
+                "Special Form",
+                "Mobility",
+                "Combo System"
+            ],
+            "related_media": {
+                "image_path": "./images/combat/combat_001.jpg",
+                "video_path": "./videos/combat/combat_001.mp4",
+                "thumbnail_path": "./thumbnails/combat/combat_001.jpg"
+            }
+        },
+        {
+            "id": "COMBAT_002",
+            "title": "Snowy Mountain Battle with White Bone Demon",
+            "category": "combat",
+            "description": "On a mountaintop blanketed in snow, Wukong engages in fierce combat with the White Bone Demon. Amid howling icy winds, the White Bone Demon's silhouette flickers in and out of sight, ice crystals refracting an eerie light through the air. Wukong must maintain his fighting condition in the extreme cold while guarding against the White Bone Demon's tricks.",
+            "combat_details": {
+                "main_character": "Sun Wukong",
+                "form": "Standard Form",
+                "opponent": "White Bone Demon",
+                "combat_style": ["Tactical Combat", "Environmental Adaptation", "Trap Detection"],
+                "abilities_used": ["Staff Techniques", "Fiery Eyes and Golden Pupils", "Cloud-Riding Technique"],
+                "difficulty": "Medium-High"
+            },
+            "scene_info": {
+                "location": "Snowy Mountain Summit",
+                "time_of_day": "Evening",
+                "weather": "Blizzard",
+                "environment": "Snowfield",
+                "special_effects": ["Snowflakes", "Ice Crystals", "Icy Mist"]
+            },
+            "visual_elements": {
+                "color_scheme": ["White", "Blue", "Gold"],
+                "key_visuals": ["Swirling Snowflakes", "White Bone Demon's Shadow", "Staff's Radiance"],
+                "particle_effects": ["Snowflake Drift", "Ice Crystal Refraction", "Icy Mist Swirling"]
+            },
+            "gameplay_tags": [
+                "BOSS Battle",
+                "Environmental Challenge",
+                "Visual Deception",
+                "Skill Combos",
+                "Story Combat"
+            ],
+            "related_media": {
+                "image_path": "./images/combat/combat_002.jpg",
+                "video_path": "./videos/combat/combat_002.mp4",
+                "thumbnail_path": "./thumbnails/combat/combat_002.jpg"
+            }
+        },
+        {
+            "id": "SCENE_001",
+            "title": "Water Curtain Cave Panorama",
+            "category": "scene",
+            "description": "Deep within the majestic Flower Fruit Mountain, a waterfall cascades like the Milky Way, and the Water Curtain Cave appears fleetingly within it. Outside the cave, green pines and verdant cypresses stand tall amid swirling spiritual auras, while cranes glide past and spirit monkeys frolic in the treetops. Inside, everything is neatly arranged with treasures on display, exuding the aura of an immortal's abode.",
+            "scene_info": {
+                "location": "Flower Fruit Mountain",
+                "time_of_day": "Noon",
+                "weather": "Clear",
+                "environment": "Mountains and Water",
+                "special_effects": ["Waterfall", "Morning Mist", "Sunlight"]
+            },
+            "visual_elements": {
+                "color_scheme": ["Cyan", "White", "Gold"],
+                "key_visuals": ["Waterfall", "Spirit Monkeys", "Cranes"],
+                "particle_effects": ["Water Mist", "Sunlight Scattering", "Spiritual Aura"]
+            },
+            "gameplay_elements": {
+                "interactive_objects": ["Treasures", "Dharma Artifacts", "Mechanisms"],
+                "hidden_secrets": ["Secret Passages", "Treasure Maps", "Cultivation Sites"],
+                "npc_locations": ["Troop of Spirit Monkeys", "Cranes", "Mountain Spirits"]
+            },
+            "lore_significance": {
+                "story_connections": ["Sun Wukong's Cultivation Site", "Location of the Great Sage Equal to Heaven Title", "Where 72 Transformations Were Mastered"],
+                "historical_events": ["Origin of the Havoc in Heaven", "Becoming the Monkey King", "Learning the 72 Transformations"]
+            },
+            "related_media": {
+                "image_path": "./images/scenes/scene_001.jpg",
+                "video_path": "./videos/scenes/scene_001.mp4",
+                "thumbnail_path": "./thumbnails/scenes/scene_001.jpg"
+            }
+        },
+        {
+            "id": "ABILITY_001",
+            "title": "Fiery Eyes and Golden Pupils",
+            "category": "ability",
+            "description": "Wukong's eyes blaze with golden light, able to see through all illusions and deceptions. This skill not only reveals enemies' disguises but also uncovers hidden treasures and mechanisms. When the golden light flares, the entire screen displays a unique visual effect.",
+            "ability_details": {
+                "type": "Passive Skill",
+                "activation": "Hold R Key",
+                "cooldown": "30 seconds",
+                "energy_cost": "20 points",
+                "upgrades": [
+                    "Range Increase",
+                    "Duration Extension",
+                    "Energy Cost Reduction"
+                ]
+            },
+            "gameplay_mechanics": {
+                "primary_use": ["See Through Disguises", "Find Treasures", "Puzzle Assistance"],
+                "combat_applications": [
+                    "Prevent Being Confused by Illusions",
+                    "Locate BOSS Weak Points",
+                    "Predict Enemy Positions"
+                ],
+                "combination_effects": [
+                    "Use in Conjunction with 72 Transformations",
+                    "Combo with Staff Techniques",
+                    "Break Special Mechanisms"
+                ]
+            },
+            "visual_effects": {
+                "color_scheme": ["Gold", "Red"],
+                "key_visuals": ["Golden Light", "Flames", "Ripples"],
+                "particle_effects": ["Golden Light Flashing", "Flames Swirling", "Ripple Spreading"]
+            },
+            "related_media": {
+                "image_path": "./images/abilities/ability_001.jpg",
+                "video_path": "./videos/abilities/ability_001.mp4",
+                "thumbnail_path": "./thumbnails/abilities/ability_001.jpg"
+            }
+        },
+        {
+            "id": "STORY_001",
+            "title": "First Arrival at Flower Fruit Mountain",
+            "category": "story",
+            "description": "This chapter tells the story of Wukong's first arrival at Flower Fruit Mountain. Born from a divine stone with innate strength and boundless curiosity, he quickly bonds with the spirit monkeys of the mountain. Through his wisdom and abilities, he gradually earns the recognition and respect of the troop.",
+            "story_elements": {
+                "chapter": "Prologue",
+                "location": ["Flower Fruit Mountain", "Water Curtain Cave"],
+                "key_characters": ["Sun Wukong", "Elder Monkey King", "Monkey Troop"],
+                "themes": ["Growth", "Leadership", "Self-Discovery"]
+            },
+            "narrative_details": {
+                "plot_points": [
+                    "The Divine Stone Bursts Open",
+                    "Meeting the Monkey Troop",
+                    "Demonstrating Abilities",
+                    "Becoming the Monkey King"
+                ],
+                "character_development": {
+                    "main_character": "From Naivety to Leadership",
+                    "supporting_cast": "From Doubt to Belief"
+                },
+                "emotional_beats": [
+                    "The Wonder of a New Birth",
+                    "The Joy of Belonging",
+                    "The Awakening of Responsibility"
+                ]
+            },
+            "gameplay_integration": {
+                "tutorial_elements": [
+                    "Basic Movement",
+                    "Jump Techniques",
+                    "Basic Combat"
+                ],
+                "collectibles": [
+                    "Mysterious Runes",
+                    "Ancient Tomes",
+                    "Monkey King Tokens"
+                ],
+                "challenges": [
+                    "Cross the Gorge",
+                    "Climb the Peak",
+                    "Defeat the Challengers"
+                ]
+            },
+            "related_media": {
+                "image_path": "./images/story/story_001.jpg",
+                "video_path": "./videos/story/story_001.mp4",
+                "thumbnail_path": "./thumbnails/story/story_001.jpg"
+            }
+        }
+    ],
+    "metadata": {
+        "creation_date": "2024-12-03",
+        "last_updated": "2024-12-03",
+        "language": "zh-CN",
+        "tags_count": {
+            "combat": 40,
+            "scene": 20,
+            "story": 15,
+            "ability": 15,
+            "character": 5,
+            "item": 5
+        }
+    }
+}
