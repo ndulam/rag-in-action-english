@@ -13,7 +13,21 @@
       "Bash(Sort-Object LastWriteTime -Descending)",
       "Bash(Head -20)",
       "PowerShell(conda env *)",
-      "PowerShell(pip install *)"
+      "PowerShell(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(git checkout *)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 _fix.py)",
+      "Bash(rm _fix.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 _fix2.py)",
+      "Bash(rm _fix2.py)",
+      "Bash(rm -f _fix.py _missing.txt)",
+      "Skill(update-config)",
+      "Bash(*)",
+      "PowerShell(*)",
+      "Edit",
+      "Write",
+      "NotebookEdit"
     ]
   }
 }
