@@ -3,7 +3,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 loader = TextLoader("90-Data/shanxi-tourism/YunGangGrottoes.txt")
 documents = loader.load()
 # Define a list of separators in priority order
-separators = ["\n\n", ".", "，", " "] # . is period, ， is comma, space
+separators = ["\n\n", ".", ",", " "] # . is period, , is comma, space
 # Create the recursive chunker with the separator list
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=100,
